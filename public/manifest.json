@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Wishlist",
+  "name": "Wish list of books worth reading",
   "icons": [
     {
       "src": "favicon.ico",

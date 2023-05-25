@@ -17,3 +17,22 @@ Follow the instructions below to get the project up and running on your local ma
 
 ```shell
 git clone https://github.com/dafegosa/books.git
+```
+
+2. Navigate to the project directory:
+
+```shell
+cd books
+```
+
+3. Install the dependencies:
+
+```shell
+npm install
+```
+
+4. Start the development server:
+
+```shell
+npm start
+```
